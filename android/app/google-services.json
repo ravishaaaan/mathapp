@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504374703336",
+    "project_id": "math-5afd5",
+    "storage_bucket": "math-5afd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504374703336:android:5a755d0e321e19868d455d",
+        "android_client_info": {
+          "package_name": "com.codeblack.mathapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtfz3FEMzHNLj1fr6Pez8YSX0m7l_kXFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
